@@ -17,7 +17,7 @@ This is a simple **Password Manager GUI application** built using Python and Tki
 
 ## 📸 UI Preview
 
-![Password Manager Screenshot](logo.png)  
+![Password Manager Screenshot](app.png)  
 
 ---
 
@@ -29,5 +29,15 @@ Before running the project, make sure Python is installed. Then install the requ
 
 Install using pip:
 
-```bash
-pip install pyperclip
+tkinter
+json
+random
+
+-----
+
+
+This project will continue to improve over time with enhancements and refinements.
+Thank you for visiting and checking out the project!
+
+
+--Abhijeet--
