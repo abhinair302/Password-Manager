@@ -29,9 +29,9 @@ Before running the project, make sure Python is installed. Then install the requ
 
 Install using pip:
 
--tkinter
--json
--random
+- tkinter
+- json
+- random
 
 -----
 
